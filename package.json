@@ -45,7 +45,7 @@
     "dotenv": "^8.0.0",
     "encoding": "~0.1.12",
     "file-loader": "^4.0.0",
-    "https-proxy-agent": "^2.2.1",
+    "https-proxy-agent": "^2.2.3",
     "jest": "^24.8.0",
     "netlify-lambda": "^1.4.13",
     "node-fetch": "^2.6.0",
