@@ -62,7 +62,7 @@
     "file-type": "^11.1.0",
     "hint.css": "^2.6.0",
     "nprogress": "^0.2.0",
-    "prismjs": "^1.25.0"
+    "prismjs": "^1.27.0"
   },
   "scripts": {
     "test": "jest",
